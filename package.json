@@ -1,9 +1,9 @@
 {
-  "name": "code-oss-dev",
-  "version": "1.82.0",
-  "distro": "56bfb9ce4a8d2298f475a1b8d9c7a7b5a72204f2",
+  "name": "ifs-client",
+  "version": "0.1",
+  "distro": "fork",
   "author": {
-    "name": "Microsoft Corporation"
+    "name": "Aegirios, with the licence of Microsoft Corporation"
   },
   "license": "MIT",
   "main": "./out/main",
